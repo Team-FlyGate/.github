@@ -1,10 +1,9 @@
-# Team FlyGate · Organization Profile
+# Team FlyGate · Organization profile
 
-GitHub 조직 소개는 [profile/README.md](profile/README.md)에 있습니다.
+[조직 페이지 ↗](https://github.com/Team-FlyGate) · [프로필 README](profile/README.md) · [메인 제출본](https://github.com/Team-FlyGate/Project-FlyGate)
 
-- 메인 제출본: [Project-FlyGate](https://github.com/Team-FlyGate/Project-FlyGate)
-- 구성: **FlyDiscovery + FlyVigilance**
-- 소개 페이지 버전: **v1.0.0** ([보존본](versions/v1.0.0/README.md))
-- 배너: GPT-image-2로 생성한 개념 이미지
+FlyGate = **FlyDiscovery + FlyVigilance**.
 
-이 저장소는 팀 프로필과 시각 자료만 관리합니다.
+현재 디자인: **v2.0.0** — 생성형 브랜드 아트, 프로젝트 화면, 다섯 명의 팀 프로필과 기여 소개.
+
+이전 프로필은 [v1.0.0](versions/v1.0.0/README.md), 현재 버전은 [v2.0.0](versions/v2.0.0/README.md)에 보존합니다.
